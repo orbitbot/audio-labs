@@ -1,0 +1,25 @@
+body {
+  background: #313439;
+  color : #ddd;
+}
+
+h1.title {
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
+.content {
+  max-width: 840px;
+  margin: auto;
+  margin-top: 1em;
+}
+
+li {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
